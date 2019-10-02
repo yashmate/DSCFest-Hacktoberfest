@@ -3,9 +3,9 @@ This program is by DSC-Galgotias|GTBIT to trainand provide students to learn Git
 
 ### ⚡️ Follow Us:
 
-[Twitter](https://twitter.com/DSC_GU)
-[LinkedIn](https://www.linkedin.com/company/dsc-galgotias/)
-[Commudle](https://commudle.com/dsc-galgotias-university)
+[Twitter](https://twitter.com/DSC_GU)✨
+[LinkedIn](https://www.linkedin.com/company/dsc-galgotias/)✨
+[Commudle](https://commudle.com/dsc-galgotias-university)✨
 
 
 ### What is Hacktoberfest?
